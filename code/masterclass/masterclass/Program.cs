@@ -34,8 +34,51 @@ namespace masterclass
             // WriteSomethingSpecific($"The adition of 2 and 5 is:  {Add(Add(100, Multiply(2,2)), 6354)}");
             // Console.WriteLine(GreetFriend(friend));
             //Hello();
-            TryHarder();
+            //TryHarder();
+            Temperature();
             Console.ReadKey();
+        }
+        public static void Party()
+        {
+            int age = 25;
+            switch (age)
+            {
+                case 15:
+                    Console.WriteLine("Too young to partyu ");
+                    break;
+                case 25:
+                    Console.WriteLine("Perfection");
+                    break;
+                default:
+                    Console.WriteLine("");
+                    break;
+            }
+        }
+        public static void Temperature(){
+           
+            int temperature;
+            bool validValue;
+            do
+            {
+                Console.WriteLine("Write the current temperature");
+                string temperatureString = Console.ReadLine();
+                if (!int.TryParse(temperatureString, out temperature))
+                {
+                    Console.WriteLine("No temperature has set, here a litle advice:");
+                    validValue = false;
+                    temperature = 666;
+                }
+                else
+                {
+                    validValue = true;
+                }
+            } while (!validValue);
+
+            if(temperature < 30){
+                Console.WriteLine("The temperature is {}",temperature);
+            }else{
+                Console.WriteLine("Climate change is REAL!!");
+            }
         }
         public static void TryHarder()
         {
