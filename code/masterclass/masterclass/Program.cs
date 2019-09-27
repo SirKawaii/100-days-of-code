@@ -35,8 +35,25 @@ namespace masterclass
             // Console.WriteLine(GreetFriend(friend));
             //Hello();
             //TryHarder();
-            Temperature();
+            //Temperature();
+            //MyClass();
+            TheBox();
+
             Console.ReadKey();
+        }
+        public static void TheBox()
+        {
+            Box box = new Box(2, 4, 5);
+            box.GetBoxData();
+            Box anotherone = new Box(6, 5, 3);
+            anotherone.GetBoxData();
+        }
+        public static void MyClass()
+        {
+            Human denis = new Human("denis","dow","green",45);
+            denis.IntroduceMyself();
+            Human karen = new Human("Karen", "denki","black");
+            denis.IntroduceMyself();
         }
         public static void Party()
         {

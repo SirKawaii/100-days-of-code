@@ -35,3 +35,16 @@ test code is in this repo on ./code/masterclass
 
 **Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
 
+
+### Day 02: September 26, 2019 0:03
+##### (StackOverFlowExeption)
+
+**Today's Progress**: Loops and Object Oriented Programing secctions completed.
+
+**Thoughts**: Loops quite be easy, but I feel the dificult part going to start now, Today I create my first StackOverFlow Exception in this course and... is interesting xD , learn diferents method to make member variables always is a good thing.
+I'm very tired now, is almost 3 hours of extra coding, now I'm going to sleep. good night.
+
+**CODE**: test code is in this repo on ./code/masterclass
+
+**Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
+
