@@ -24,7 +24,7 @@ test code is in this repo on ./code/masterclass
 
 **Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
 
-### Day 01: September 25, 2019 23:00
+### Day 02: September 25, 2019 23:00
 ##### (Desicions)
 
 **Today's Progress**: Complete the Making decisions course.
@@ -36,7 +36,7 @@ test code is in this repo on ./code/masterclass
 **Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
 
 
-### Day 02: September 26, 2019 0:03
+### Day 03: September 26, 2019 0:03
 ##### (StackOverFlowExeption)
 
 **Today's Progress**: Loops and Object Oriented Programing secctions completed.
