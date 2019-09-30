@@ -48,3 +48,14 @@ I'm very tired now, is almost 3 hours of extra coding, now I'm going to sleep. g
 
 **Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
 
+### Day 04: September 26, 2019 0:03
+##### (a litle step)
+
+**Today's Progress**: Arrays
+
+**Thoughts**: I miss two days of the challenge because i was visit my parents house, but today I continue the course with the will to not miss any other day, I hope that.
+
+**CODE**: test code is in this repo on ./code/masterclass
+
+**Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
+

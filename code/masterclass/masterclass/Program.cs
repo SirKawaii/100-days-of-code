@@ -27,19 +27,27 @@ namespace masterclass
 
             // Below here are test methods.
 
-            // myBirthday();
-            // Convertion();
-            // WriteSomething();
-            // WriteSomethingSpecific("This is not a print Line method");
-            // WriteSomethingSpecific($"The adition of 2 and 5 is:  {Add(Add(100, Multiply(2,2)), 6354)}");
-            // Console.WriteLine(GreetFriend(friend));
+            //myBirthday();
+            //Convertion();
+            //WriteSomething();
+            //WriteSomethingSpecific("This is not a print Line method");
+            //WriteSomethingSpecific($"The adition of 2 and 5 is:  {Add(Add(100, Multiply(2,2)), 6354)}");
+            //Console.WriteLine(GreetFriend(friend));
             //Hello();
             //TryHarder();
             //Temperature();
             //MyClass();
-            TheBox();
+            //TheBox();
+            TheArrays();
 
             Console.ReadKey();
+        }
+        public static void TheArrays()
+        {
+            Arrays listas = new Arrays();
+            listas.DoSomething();
+            listas.DoForeach();
+            listas.Multidimensional();
         }
         public static void TheBox()
         {
