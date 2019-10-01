@@ -48,12 +48,23 @@ I'm very tired now, is almost 3 hours of extra coding, now I'm going to sleep. g
 
 **Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
 
-### Day 04: September 26, 2019 0:03
+### Day 04: September 27, 2019 0:03
 ##### (a litle step)
 
 **Today's Progress**: Arrays
 
 **Thoughts**: I miss two days of the challenge because i was visit my parents house, but today I continue the course with the will to not miss any other day, I hope that.
+
+**CODE**: test code is in this repo on ./code/masterclass
+
+**Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
+
+### Day 05: October 1, 2019 0:03
+##### (TicTacToe 1)
+
+**Today's Progress**: nothing
+
+**Thoughts**: I start to do a challenge in the course, is about do a Tic tac toe game , today I only watch the video and and write a few of line of code, tomorrow if a had time i going to complete this challenge in my own style.
 
 **CODE**: test code is in this repo on ./code/masterclass
 
