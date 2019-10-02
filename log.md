@@ -59,7 +59,7 @@ I'm very tired now, is almost 3 hours of extra coding, now I'm going to sleep. g
 
 **Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
 
-### Day 05: October 1, 2019 0:03
+### Day 05: October 1, 2019 ??:??am
 ##### (TicTacToe 1)
 
 **Today's Progress**: nothing
@@ -70,3 +70,13 @@ I'm very tired now, is almost 3 hours of extra coding, now I'm going to sleep. g
 
 **Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
 
+### Day 06: October 2, 2019 1:57am
+##### (TicTacToe 2)
+
+**Today's Progress**: tic tac toe
+
+**Thoughts**: More Tic tac toe for me, today y try to use a list of list of int , maybe exist a better way to do this but for now the game is almost completed.
+
+**CODE**: test code is in this repo on ./code/masterclass
+
+**Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
