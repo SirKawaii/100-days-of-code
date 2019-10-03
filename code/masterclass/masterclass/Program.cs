@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace masterclass
 {
@@ -38,9 +39,85 @@ namespace masterclass
             //Temperature();
             //MyClass();
             //TheBox();
-            TheArrays();
-
+            //TheArrays();
+            //MoreArrays();
+            int[] studentGrades = new int[]
+            {
+                1,2,3,4,5,6,7,8,9,10
+            };
+            //Console.WriteLine("The average of studentGrades is : {0}",GetAverage(studentGrades));
+            ArrayList();
             Console.ReadKey();
+        }
+        public static void ArrayList()
+        {
+            // declaring arraylist
+            ArrayList undefinedArray = new ArrayList();
+            ArrayList myArray = new ArrayList(100);
+
+            myArray.Add("34");
+            myArray.Add(23);
+            myArray.Add("Hello");
+            myArray.Add(234);
+            myArray.Add(0.666);
+            myArray.Add(66000000);
+
+            // delete element at position
+
+            myArray.RemoveAt(0);
+
+            // count
+
+            Console.WriteLine("counnt {0}", myArray.Count);
+
+            double sum = 0;
+
+            foreach(object obj in myArray)
+            {
+                if(obj is int)
+                {
+                    sum += Convert.ToDouble(obj);
+                }
+                else if(obj is double)
+                {
+                    sum += (double)obj;
+                }
+                else
+                {
+                    Console.WriteLine(obj);
+                }
+            }
+            Console.WriteLine("sum result {0}", sum);
+
+        }
+        public static double GetAverage(int[] gradesArray)
+        {
+
+            int size = gradesArray.Length;
+            double average;
+            int sum = 0;
+
+            for (int i = 0; i < size; i++)
+            {
+                sum += gradesArray[i];
+            }
+            average = (double)sum / size;
+            return average;
+            
+        }
+        public static void MoreArrays()
+        {
+            string[][] friendAndFamily = new string[][]
+            {
+                new string[]{"michaell", "Sandy"},
+                new string[]{"Frank", "Claudia" },
+                new string[]{"Andrew", "Michelle"}
+            };
+
+            foreach(string[] pair in friendAndFamily)
+            {
+                Console.WriteLine("Hi {0}, i would like to introduce {1} to you", pair[0], pair[1]);
+            }
         }
         public static void TheArrays()
         {

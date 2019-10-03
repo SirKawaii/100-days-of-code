@@ -70,12 +70,23 @@ I'm very tired now, is almost 3 hours of extra coding, now I'm going to sleep. g
 
 **Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
 
-### Day 06: October 2, 2019 1:57am
+### Day 06: October 1, 2019 1:57am of October 2
 ##### (TicTacToe 2)
 
 **Today's Progress**: tic tac toe
 
 **Thoughts**: More Tic tac toe for me, today y try to use a list of list of int , maybe exist a better way to do this but for now the game is almost completed.
+
+**CODE**: test code is in this repo on ./code/masterclass
+
+**Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
+
+### Day 07: October 2, 2019 23:48pm
+##### (ArrayList!!!!!)
+
+**Today's Progress**: Finish ArrayList section.
+
+**Thoughts**: before check the tic tac toe game and play a couple of match I following study array and ArrayList , quite interesting and have a lot of potencial, i like to much that feature, the "in" operator, i saw that on python and saw it here in C# is really useful.
 
 **CODE**: test code is in this repo on ./code/masterclass
 

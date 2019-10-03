@@ -33,12 +33,12 @@ namespace TicTacToe
             //switch the users and play
             do
             {
-
                 DrawField();
                 // user one start the game.
                 activeUser = activeUser == PLAYER_TWO ? PLAYER_ONE: PLAYER_TWO;
                 Console.WriteLine("\nUser 1 : [x]\nUser 2 : [o]");
-                EnterInput(activeUser);             
+                EnterInput(activeUser);
+                DrawField();
             } while (!WinnerWinnerChickenDinner(activeUser) && currentplay <= 9);
             Console.WriteLine("Game has end.");
         }
@@ -126,6 +126,16 @@ namespace TicTacToe
                     new int[,] { { 1 }, { 0 }  },
                     new int[,] { { 2 }, { 0 }  }
                 },
+                 new List<int[,]>{
+                    new int[,] { { 0 }, { 1 }  },
+                    new int[,] { { 1 }, { 1 }  },
+                    new int[,] { { 2 }, { 1 }  }
+                },
+                new List<int[,]>{
+                    new int[,] { { 0 }, { 2 }  },
+                    new int[,] { { 1 }, { 2 }  },
+                    new int[,] { { 2 }, { 2 }  }
+                },
                 new List<int[,]>{
                     new int[,] { { 1 }, { 0 }  },
                     new int[,] { { 1 }, { 1 }  },
@@ -167,7 +177,7 @@ namespace TicTacToe
                 };
                 if(IsWinner(a, b, c))
                 {
-                    Console.WriteLine("Player {0} has win.", player);
+                    Console.WriteLine("Player {0} has won.", player);
                     return true;
                 }                  
             }
