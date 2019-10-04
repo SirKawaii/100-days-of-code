@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "masterclass", "masterclass\masterclass.csproj", "{618D3F93-837D-47C2-BBFD-2E77E21D00A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{A0933F48-B893-4E57-AE94-3BA9737CEDDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{A0933F48-B893-4E57-AE94-3BA9737CEDDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceApp", "InheritanceApp\InheritanceApp.csproj", "{2963C3E8-C2FC-4552-80D8-CC2FD6A0A718}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A0933F48-B893-4E57-AE94-3BA9737CEDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0933F48-B893-4E57-AE94-3BA9737CEDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0933F48-B893-4E57-AE94-3BA9737CEDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2963C3E8-C2FC-4552-80D8-CC2FD6A0A718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2963C3E8-C2FC-4552-80D8-CC2FD6A0A718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2963C3E8-C2FC-4552-80D8-CC2FD6A0A718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2963C3E8-C2FC-4552-80D8-CC2FD6A0A718}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

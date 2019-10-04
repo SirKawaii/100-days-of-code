@@ -91,3 +91,14 @@ I'm very tired now, is almost 3 hours of extra coding, now I'm going to sleep. g
 **CODE**: test code is in this repo on ./code/masterclass
 
 **Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
+
+### Day 08: October 2, 2019 20:25pm - 1:04am
+##### (Inheritance)
+
+**Today's Progress**: Introduction to Inheritance
+
+**Thoughts**: Today I start to do some code early , because we went to watch "El Bromas" , the Joker movie was very fun with a philosofical taste, then I comeback to de code and finished the 40 minutes of video about inheritance. 
+
+**CODE**: test code is in this repo on ./code/masterclass
+
+**Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
