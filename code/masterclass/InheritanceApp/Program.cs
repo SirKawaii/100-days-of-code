@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace InheritanceApp
 {
@@ -12,6 +13,15 @@ namespace InheritanceApp
 
             ImagePost imagePost1 = new ImagePost("check out my new shoes", "mit", "image.png", true);
             Console.WriteLine(imagePost1.ToString());
+
+            VideoPost video = new VideoPost("cat video", "mit", "video.avi", true, 10);
+            Console.WriteLine(video.ToString());
+            video.PlayVideo();
+            Console.WriteLine("Press Any key to stop the video");
+            Console.ReadKey();
+            video.StopVideo();
+
+
 
             Console.ReadLine();
         }
@@ -82,5 +92,81 @@ namespace InheritanceApp
         {
             return String.Format("{0} - {1} - by {2} [link to image {3}]", this.ID, this.Title, this.SendByUsername,this.ImageUrl);
         }
+    }
+
+    class VideoPost : Post
+    {
+        protected string videoUrl { get; set; }
+        protected int lenght { get; set; }
+
+        protected bool isPlaying = false;
+        protected int currentDuration = 0;
+        protected Timer timer;
+
+        public VideoPost() { }
+
+        public VideoPost(string title, string byUserName, string url, bool isPublished, int lenght)
+        {
+            this.ID = GetNextIId();
+            this.Title = title;
+            this.SendByUsername = SendByUsername;
+            this.IsPublic = isPublished;
+
+            this.videoUrl = url;
+            this.lenght = lenght;
+            
+
+        }
+
+        public override string ToString()
+        {
+            return String.Format("{0} - {1} - by {2} [link to image {3}]", 
+                this.ID, this.Title, this.SendByUsername,this.videoUrl);
+        }
+
+        public void PlayVideo()
+        {
+            if (!isPlaying)
+            {
+                isPlaying = true;
+                Console.WriteLine("playing video");
+                timer = new Timer(TimerCallback, null, 0, 1000);
+            }
+            else
+            {
+                Console.WriteLine("Already playing.");
+            }
+
+        }
+
+        private void TimerCallback(Object o)
+        {
+            if(currentDuration < lenght)
+            {
+                currentDuration++;
+                Console.WriteLine("video at {0}s", currentDuration);
+                GC.Collect();
+            }
+            else
+            {
+                StopVideo();
+            }
+        }
+
+        public void StopVideo()
+        {
+            if (isPlaying)
+            {
+                Console.WriteLine("Stopped at {0}", currentDuration);
+                currentDuration = 0;
+                timer.Dispose();
+            }
+            else
+            {
+                Console.WriteLine("Already Stopped.");
+            }
+
+        }
+
     }
 }
