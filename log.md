@@ -116,7 +116,7 @@ I really need learn more english , this text is a shame against all english read
 **Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
 
 
-### Day 09: October 5, 2019 13:00pm
+### Day 10: October 6, 2019 13:00pm
 ##### (Visual Studio Code Tips )
 
 **Today's Progress**: Shortcuts on visual studio code.
