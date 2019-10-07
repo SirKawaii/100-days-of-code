@@ -114,3 +114,17 @@ I really need learn more english , this text is a shame against all english read
 **CODE**: test code is in this repo on ./code/masterclass
 
 **Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
+
+
+### Day 09: October 5, 2019 13:00pm
+##### (Visual Studio Code Tips )
+
+**Today's Progress**: Shortcuts on visual studio code.
+
+**Thoughts**: I start a course to improve my use of visual studio code, is very handy know this tips in order to write code faster.
+Is a very interesting course, if you have time, I really recomend to do the course.
+The course is free! 😁
+
+**CODE**: test code is in this repo on ./code/visualStidioCode
+
+**Link to work:** [Visual studio code: improve your skill to code faster.](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar)
