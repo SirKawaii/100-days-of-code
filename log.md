@@ -125,6 +125,17 @@ I really need learn more english , this text is a shame against all english read
 Is a very interesting course, if you have time, I really recomend to do the course.
 The course is free! 😁
 
-**CODE**: test code is in this repo on ./code/visualStidioCode
+**CODE**: test code is in this repo on ./code/visualStudioCode
+
+**Link to work:** [Visual studio code: improve your skill to code faster.](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar)
+
+### Day 11: October 7, 2019 23:34pm
+##### (Visual Studio Code Tips )
+
+**Today's Progress**: Shortcuts on visual studio code.
+
+**Thoughts**: Continue with the Visual Studio Code tips, I does the 60% of the course and now y feel more confortable coding on vsc.
+
+**CODE**: test code is in this repo on ./code/visualStudioCode
 
 **Link to work:** [Visual studio code: improve your skill to code faster.](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar)

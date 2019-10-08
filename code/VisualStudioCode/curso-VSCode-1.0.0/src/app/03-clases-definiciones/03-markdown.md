@@ -5,6 +5,8 @@ command + P : Markdown Open Preview to the side
 
 Ctrl + P : Markdown Open Preview
 Ctrl + P : Markdown Open Preview to the side
+
+"is this on the side."
 ```
 
 # Dillinger
