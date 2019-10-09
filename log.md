@@ -139,3 +139,15 @@ The course is free! 😁
 **CODE**: test code is in this repo on ./code/visualStudioCode
 
 **Link to work:** [Visual studio code: improve your skill to code faster.](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar)
+
+### Day 12: October 8, 2019 33:03pm
+##### (Visual Studio Code Tips )
+
+**Today's Progress**: Shortcuts on visual studio code.
+
+**Thoughts**:Vsc tips finished!, I'm really very tired because i start to ride my bicicle to comute to my working place.
+hopefully by this course now I have more tips and tricks to create more and faster code.
+
+**CODE**: test code is in this repo on ./code/visualStudioCode
+
+**Link to work:** [Free: Visual studio code: improve your skill to code faster.](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar)
