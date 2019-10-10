@@ -151,3 +151,50 @@ hopefully by this course now I have more tips and tricks to create more and fast
 **CODE**: test code is in this repo on ./code/visualStudioCode
 
 **Link to work:** [Free: Visual studio code: improve your skill to code faster.](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar)
+
+### Day 13: October 9, 2019 12:59 pm
+##### (A normal day at work )
+
+**Today's Progress**: Inheritance exercise
+
+**Thoughts**: Today I was practice Inheritance a litle, the example solution was quick but i speend a lot of time adding stupid details but the result was funny. 
+
+```
+** Morning:
+*************************
+Boss said: Write some code!!!
+Boss is working...
+Victor is working...
+javiera is learning...
+** LunchTime:
+*************************
+Victor is Working...  1s
+Boss is taking coffee...
+Learning...  0s
+Boss is playing smash bros ultimate.
+Victor is taking coffee...
+Victor is playing smash bros ultimate.
+javiera is taking coffee...
+javiera is playing smash bros ultimate.
+** Evening:
+*************************
+Boss is Working...  1s
+Boss is working...
+Victor is working...
+Hey Victor Please go home and rest.
+Victor Stop working.
+Boss is Working...  2s
+javiera is working very hard...
+** Go Home:
+*************************
+Victor is playing smash bros ultimate.
+javiera Stop working.
+Boss said: Are you kidding me?
+** At night:
+*************************
+Boss Stop working.
+```
+
+**CODE**: test code is in this repo on ./code/masterclass
+
+**Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
