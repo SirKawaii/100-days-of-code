@@ -12,7 +12,7 @@ namespace employes
 
             Boss thatMan = new Boss("Boss", "The",999999999,false);
 
-            Trainees javi = new Trainees("javiera");
+            Trainees javi = new Trainees("Javiera");
             // morning
             WriteSomethingPretty("Morning:");
             thatMan.Lead();

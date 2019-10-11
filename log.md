@@ -198,3 +198,14 @@ Boss Stop working.
 **CODE**: test code is in this repo on ./code/masterclass
 
 **Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
+
+### Day 14: October 10, 2019 22:50pm
+##### (Visual Studio Code Tips )
+
+**Today's Progress**: Interfaces
+
+**Thoughts**: wow , that reminds me to how to define functions in C , I need to learn more about this in order to implement it correclty.
+
+**CODE**: test code is in this repo on ./code/masterclass
+
+**Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)

@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToe", "TicTacToe\TicT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceApp", "InheritanceApp\InheritanceApp.csproj", "{2963C3E8-C2FC-4552-80D8-CC2FD6A0A718}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "employes", "employes\employes.csproj", "{5BE41343-DB27-4F5D-A241-1D0B3C221C7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "employes", "employes\employes.csproj", "{5BE41343-DB27-4F5D-A241-1D0B3C221C7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{DC458F51-9012-46C6-9EFF-D3D85A1868DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5BE41343-DB27-4F5D-A241-1D0B3C221C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BE41343-DB27-4F5D-A241-1D0B3C221C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BE41343-DB27-4F5D-A241-1D0B3C221C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC458F51-9012-46C6-9EFF-D3D85A1868DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC458F51-9012-46C6-9EFF-D3D85A1868DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC458F51-9012-46C6-9EFF-D3D85A1868DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC458F51-9012-46C6-9EFF-D3D85A1868DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
