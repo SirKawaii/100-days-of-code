@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceApp", "Inheritan
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "employes", "employes\employes.csproj", "{5BE41343-DB27-4F5D-A241-1D0B3C221C7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{DC458F51-9012-46C6-9EFF-D3D85A1868DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{DC458F51-9012-46C6-9EFF-D3D85A1868DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car", "ConsoleApp1\Car.csproj", "{CC23A97B-9F90-4020-BF3D-C67EC8272242}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{DC458F51-9012-46C6-9EFF-D3D85A1868DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC458F51-9012-46C6-9EFF-D3D85A1868DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC458F51-9012-46C6-9EFF-D3D85A1868DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC23A97B-9F90-4020-BF3D-C67EC8272242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC23A97B-9F90-4020-BF3D-C67EC8272242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC23A97B-9F90-4020-BF3D-C67EC8272242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC23A97B-9F90-4020-BF3D-C67EC8272242}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
