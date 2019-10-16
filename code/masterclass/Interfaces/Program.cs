@@ -33,7 +33,7 @@ namespace Interfaces
 
         public void showNotification()
         {
-            Console.WriteLine("Message {0} was sent by {1} at {2}", message , sender,date)
+            Console.WriteLine("Message {0} was sent by {1} at {2}", message, sender, date);
         }
         
         public string getDate()

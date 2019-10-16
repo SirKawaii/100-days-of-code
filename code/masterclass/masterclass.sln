@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "employes", "employes\employ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{DC458F51-9012-46C6-9EFF-D3D85A1868DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car", "ConsoleApp1\Car.csproj", "{CC23A97B-9F90-4020-BF3D-C67EC8272242}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Car", "ConsoleApp1\Car.csproj", "{CC23A97B-9F90-4020-BF3D-C67EC8272242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files", "Files\Files.csproj", "{8CE04096-E342-489B-B905-688DC8AE3A9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{CC23A97B-9F90-4020-BF3D-C67EC8272242}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC23A97B-9F90-4020-BF3D-C67EC8272242}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC23A97B-9F90-4020-BF3D-C67EC8272242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CE04096-E342-489B-B905-688DC8AE3A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE04096-E342-489B-B905-688DC8AE3A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE04096-E342-489B-B905-688DC8AE3A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE04096-E342-489B-B905-688DC8AE3A9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

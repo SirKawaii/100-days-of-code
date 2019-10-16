@@ -26,11 +26,17 @@ namespace Car
             bmwz4.ShowDetails();
             audiA3.ShowDetails();
 
+
             BMW bmwz5 = new BMW(330, "white", "Z999");
             bmwz5.ShowDetails();
+            bmwz4.SetCarIdIndo(53656, "Alfred");
+            bmwz4.GetCarIdInfo();
 
             Car car8 = (Car)bmwz5;
             car8.ShowDetails();
+
+            //M3 mym3 = new M3(250, "red", "M3 super turbo");
+            //mym3.Repair();
 
             Console.ReadLine();
         }
@@ -40,6 +46,24 @@ namespace Car
     {
         public  int HP { get; set; }
         public string Color { get; set; }
+
+        // has relationship 
+
+        protected CarDiInfo caridIndo = new CarDiInfo();
+        public void SetCarIdIndo(int idNum,string owner)
+        {
+            caridIndo.IDNum = idNum;
+            caridIndo.Owner = owner;
+        }
+
+        public void GetCarIdInfo()
+        {
+            Console.WriteLine("the car has no Id of {0} and owned by {1}",this.caridIndo.IDNum, this.caridIndo.Owner);
+        }
+        public Car()
+        {
+            // default contstructor
+        }
 
         public Car(int hp, string color)
         {
@@ -60,7 +84,7 @@ namespace Car
         }
     }
 
-    class BMW : Car
+    sealed class BMW : Car
     {
         private string brand = "BMW";
         public string Model { get; set; }
@@ -74,7 +98,7 @@ namespace Car
 
         }
 
-        public override void Repair()
+        public sealed override void Repair()
         {
             Console.WriteLine("The BMW {0} was repaired",Color);
         }
@@ -97,5 +121,24 @@ namespace Car
         {
             Console.WriteLine("The Audi {0} was repaired", Color);
         }
+    }
+
+    //class M3 : BMW
+    //{
+    //    public M3(int hp, string color, string model):base(hp,color,model)
+    //    {
+    //        this.Model = model;
+    //    }
+
+    //    public override void Repair()
+    //    {
+    //        base.Repair();
+    //    }
+    //}
+
+    class CarDiInfo
+    {
+        public int IDNum { get; set; } = 0;
+        public string Owner { get; set; } = "No Owner";
     }
 }

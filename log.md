@@ -220,3 +220,15 @@ Boss Stop working.
 **CODE**: test code is in this repo on ./code/masterclass
 
 **Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
+
+### Day 16: October 15, 2019 23:01pm
+##### (Polimorphism)
+
+**Today's Progress**: End with polimorphism
+
+**Thoughts**: Finally we end with this topic, In an era where javascript and python are the kings I don't know how could use this information in new projects, we should know in order to understand old code and give support to anothers projects but i thing the funtional programing is more explicit and less criptic.
+Tomorrow finally I going to study lambda expresions! 😃
+
+**CODE**: test code is in this repo on ./code/masterclass
+
+**Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
