@@ -211,7 +211,7 @@ Boss Stop working.
 **Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
 
 ### Day 15: October 14, 2019 23:59pm
-##### (Polimorphism)
+##### ()
 
 **Today's Progress**: Polimorphism
 
@@ -232,3 +232,15 @@ Tomorrow finally I going to study lambda expresions! 😃
 **CODE**: test code is in this repo on ./code/masterclass
 
 **Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
+
+### Day 17: October 16, 2019 22:41pm
+##### (Lambda xplosion!!!! )
+
+**Today's Progress**: First concepts of lambda expresions
+
+**Thoughts**: lambda is very usefull , is a litle hard to understand it , but i try my best, and I need to re study this class and search some excecises
+
+**CODE**: test code is in this repo on ./code/masterclass
+
+**Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
+
