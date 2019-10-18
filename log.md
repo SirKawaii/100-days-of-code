@@ -244,3 +244,14 @@ Tomorrow finally I going to study lambda expresions! 😃
 
 **Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
 
+### Day 18: October 17, 2019 22:41pm
+##### (List and modificators )
+
+**Today's Progress**: only videos
+
+**Thoughts**: today I only watch some videos of the course, Im to tired for coding more now , I'am afraid , I seriuosly think that my country is lossing the freedom of speach and the represion going to convert in a daily basis.
+
+**CODE**: no code this night, sorry 😥
+
+**Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
+
