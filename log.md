@@ -255,3 +255,18 @@ Tomorrow finally I going to study lambda expresions! 😃
 
 **Link to work:** [C# MasterClass](https://www.udemy.com/course/complete-csharp-masterclass/learn/lecture/12955656?start=0#overview)
 
+### Day 19: October 21, 2019 23:41pm
+##### ( Chile is dying and AWS )
+
+**Today's Progress**: only videos
+
+**Thoughts**: Today I work from home, and I took a introductory class to AWS provided by my work, until 9pm , I think I'm not cheating for that , after all , I feel the need to write this , because Chile is on military state now, we stay now with military personal on the streets , the goverment police and the private police is attacking the pacific riots and killing people, the "flaites" that is the delincuent pleople of chile are looting supermarkets and other stores. The news only spreads fake news and not the realliry of the streets and the goverment not listen the people needs, this movement not have a leader or a polytical side, is all the people of chile from all the sides and social clases fighting for better conditions, health, security and a better life.
+Everything is chaos but I believe that we could win a better quality of life.
+if you want to know the truth please search by this twitter hashtags : #chileDesperto #estopasaenchile
+
+I learn a lot of aws , only I need a credit card to register and do experimets with the free trial 🤣
+
+**CODE**: -
+
+**Link to work:** [C# MasterClass](-)
+
